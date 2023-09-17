@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_images</folder>
+	<filename>sonce_8f9d3c3b-515b-11ee-9335-001a7dda7115.jpg</filename>
+	<path>C:\Users\ndine\Desktop\collected_images\sonce_8f9d3c3b-515b-11ee-9335-001a7dda7115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sonce</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>108</ymin>
+			<xmax>497</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

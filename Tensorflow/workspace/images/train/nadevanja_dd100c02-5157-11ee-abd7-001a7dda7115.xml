@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_images</folder>
+	<filename>nadevanja_dd100c02-5157-11ee-abd7-001a7dda7115.jpg</filename>
+	<path>C:\Users\ndine\Desktop\collected_images\nadevanja_dd100c02-5157-11ee-abd7-001a7dda7115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nadevanja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>182</ymin>
+			<xmax>532</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

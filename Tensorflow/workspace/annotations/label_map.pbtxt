@@ -1,0 +1,28 @@
+item {
+	name:'Da'
+	id:1
+}
+item {
+	name:'Nadevanja'
+	id:2
+}
+item {
+	name:'Istorija'
+	id:3
+}
+item {
+	name:'Stemneto'
+	id:4
+}
+item {
+	name:'Sonce'
+	id:5
+}
+item {
+	name:'Sili'
+	id:6
+}
+item {
+	name:'Pet i Sedumnaeset'
+	id:7
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_images</folder>
+	<filename>sili_ade41b8b-515b-11ee-a7c2-001a7dda7115.jpg</filename>
+	<path>C:\Users\ndine\Desktop\collected_images\sili_ade41b8b-515b-11ee-a7c2-001a7dda7115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sili</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>313</ymin>
+			<xmax>420</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>

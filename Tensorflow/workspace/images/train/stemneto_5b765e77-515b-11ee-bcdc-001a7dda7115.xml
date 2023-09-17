@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_images</folder>
+	<filename>stemneto_5b765e77-515b-11ee-bcdc-001a7dda7115.jpg</filename>
+	<path>C:\Users\ndine\Desktop\collected_images\stemneto_5b765e77-515b-11ee-bcdc-001a7dda7115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stemneto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>23</ymin>
+			<xmax>350</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>
