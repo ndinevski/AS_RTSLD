@@ -18,7 +18,7 @@ Includes detection of 7 gestures : Da, Nadevanja, Stemneto, Sonce, Sili, Istorij
 
 ## Results:
 
-[![Watch the demo]()]([https://www.youtube.com/embed/<VIDEO_ID>](https://www.youtube.com/watch?v=HuW4YDxdDJE&ab_channel=NikolaDinevski))
+Demo Video : https://www.youtube.com/watch?v=HuW4YDxdDJE&ab_channel=NikolaDinevski
 
 ![2023-09-17 16_17_39-Window](https://github.com/ndinevski/AS_RTSLD/assets/61565298/ad39ce3c-a700-40a1-bb86-255aa4dbb9ef)
 ![2023-09-17 16_16_06-Window](https://github.com/ndinevski/AS_RTSLD/assets/61565298/f7ce3bec-aced-46f0-927e-4d0cc4473dbd)
